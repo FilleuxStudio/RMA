@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    
+    <!-- Métadonnées pour NuGet -->
+    <PackageId>RMA.Core</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>FilleuxStudio</Authors>
+    <Description>Relational Memory Accumulator - Architecture récurrente légère avec mémoire relationnelle pour séries temporelles, robotique et maintenance prédictive.</Description>
+    <PackageTags>machine-learning;neural-network;time-series;robotics;predictive-maintenance</PackageTags>
+    <RepositoryUrl>https://github.com/FilleuxStudio/RMA</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>

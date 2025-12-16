@@ -1,0 +1,81 @@
+####################################
+# GLOBAL
+####################################
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+
+####################################
+# IDE / EDITORS
+####################################
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+####################################
+# C# / .NET
+####################################
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Publish
+publish/
+
+####################################
+# Rust
+####################################
+# Cargo
+target/
+Cargo.lock
+
+# Rustfmt / Clippy
+*.rs.bk
+
+####################################
+# Python
+####################################
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+####################################
+# OS specific
+####################################
+*.DS_Store
+ehthumbs.db
+Icon?

@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "rma-core",
+    "rma-evaluation",
+]
