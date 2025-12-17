@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET 8.0](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/download/dotnet/8.0)
-[![Rust 1.70+](https://img.shields.io/badge/Rust-1.70+-orange)](https://www.rust-lang.org/)
+[![Rust 1.90+](https://img.shields.io/badge/Rust-1.90+-orange)](https://www.rust-lang.org/)
 [![Python 3.11-3.13](https://img.shields.io/badge/Python-3.11--3.13-blue)](https://www.python.org/downloads/)
 
 **Un concept original de réseau récurrent léger basé sur une mémoire relationnelle explicite.**
