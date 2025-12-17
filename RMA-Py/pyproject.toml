@@ -1,0 +1,25 @@
+# pyproject.toml
+[project]
+name = "rma-py"
+version = "0.1.0"
+description = "Relational Memory Accumulator - Architecture récurrente légère avec mémoire relationnelle"
+authors = [{name = "FilleuxStudio", email = "contact@filleuxstudio.fr"}]
+license = {text = "MIT"}
+readme = "readme.md"
+requires-python = ">=3.11,<3.14"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "numpy>=2.3.5",
+]
+
+[project.optional-dependencies]
+dev = ["matplotlib", "pytest"]
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"

@@ -3,7 +3,7 @@
 //! Implémentation en Rust du concept original RMA et RMA Deep.
 //! Architecture légère avec mémoire relationnelle explicite.
 //! 
-//! Auteur : [Ton nom/pseudo]
+//! Auteur : [FilleuxStudio]
 //! Date : Décembre 2025
 
 use rand::Rng;

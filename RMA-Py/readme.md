@@ -1,13 +1,9 @@
-# Depuis la racine
-cargo run --example simple_demo
+pip install numpy
+python -m examples.simple_demo
 
-# Évaluation complète
-cd rma-evaluation
-cargo run
-
-cargo run --example deep_prediction
-cargo bench
-cd rma-evaluation && cargo run
+pip install numpy matplotlib  # pour les graphiques
+python -m examples.sine_prediction
+python -m evaluation.compare_models
 
 
 # Relational Memory Accumulator (RMA)

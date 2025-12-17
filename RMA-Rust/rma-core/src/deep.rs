@@ -1,4 +1,3 @@
-//! rma-core/src/deep.rs
 //! Version puissante du RMA avec réseau profond (MLP) configurable
 
 use rand::Rng;

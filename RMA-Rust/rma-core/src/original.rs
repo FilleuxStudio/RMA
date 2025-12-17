@@ -1,4 +1,3 @@
-//! rma-core/src/original.rs
 //! Version légère du Relational Memory Accumulator (sortie linéaire simple)
 
 use rand::Rng;
